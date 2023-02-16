@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: prcompany/gitopsfc
-  newTag: 514c687bed23767383a24627799242343429bb6c
+  newTag: 97e3ad4cc6936ef7da5891a88b6d144e0a9b3a81
